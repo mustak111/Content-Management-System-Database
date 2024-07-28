@@ -46,10 +46,7 @@ The database schema is designed to accommodate files of any type, allowing users
   
 * `ContentType` : Optional, can be used to specify the content type (e.g., `Document`, `Image`,` Audio`, `Video`, etc.).
 
-# Binary Converter:
-  The git submodule Binary File Converter and Database Storage  is  the binary converter of the files and retrive the data from the database.
-  The binary converter is a tool that can be used to store the binary data for content in the `ContentData` table. The binary converter takes a file as input and converts it into a binary string. The binary string is then stored in the `ContentData` table.
-  https://github.com/VALASALARAKESH/Binary-File-Converter-and-Database-Storage.git
+
 
 # Usage:
 
